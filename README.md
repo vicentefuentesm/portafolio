@@ -2,6 +2,7 @@
 
 Proyecto de análisis y predicción del nivel de PIB de distintos países
 utilizando indicadores económicos, sociales y demográficos del Banco Mundial.
+Dentro de notebooks estan los archivos ipynb.
 
 El desarrollo se organiza en tres etapas:
 1. Análisis descriptivo e imputación de datos.
